@@ -1,4 +1,4 @@
-# Privacy Policy for Deep AI Finance
+# Privacy Policy for Deep Dime
 
 **Effective Date:** August 5, 2025  
 **Last Updated:** August 5, 2025
@@ -7,13 +7,13 @@
 
 ## Introduction
 
-Our privacy policy will help you understand what information we collect at Deep AI Finance, how Deep AI Finance uses it, and what choices you have.
+Our privacy policy will help you understand what information we collect at Deep Dime, how Deep Dime uses it, and what choices you have.
 
-**Deep AI Finance** built the Deep AI Finance app as a financial analysis and educational tool. This SERVICE is provided by Deep AI Finance and is intended for use as is.
+**deepaifinance.com** built the Deep Dime app as a financial analysis and educational tool. This SERVICE is provided by deepaifinance.com and is intended for use as is.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**IMPORTANT DISCLAIMER:** Deep AI Finance is a financial analysis and educational tool that provides information and insights for educational purposes only. We are NOT a financial advisor, investment advisor, or broker. Nothing in our app constitutes financial advice, investment advice, or recommendations to buy, sell, or hold any securities.
+**IMPORTANT DISCLAIMER:** Deep Dime is a financial analysis and educational tool that provides information and insights for educational purposes only. We are NOT a financial advisor, investment advisor, or broker. Nothing in our app constitutes financial advice, investment advice, or recommendations to buy, sell, or hold any securities.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, unless otherwise defined in this Privacy Policy.
 
@@ -153,7 +153,7 @@ Some services may use location information transmitted from users' mobile phones
 
 This Service does not address anyone under the age of 18. We do not knowingly collect personally identifiable information from children under 18. In the case we discover that a child under 18 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
 
-**Age Restriction:** Deep AI Finance is intended for users 18 years of age and older, as financial analysis and investment discussions are adult-oriented topics.
+**Age Restriction:** Deep Dime is intended for users 18 years of age and older, as financial analysis and investment discussions are adult-oriented topics.
 
 ---
 
@@ -179,7 +179,7 @@ If you are a European resident, you have rights under the General Data Protectio
 ## Financial Disclaimers
 
 ### Not Financial Advice
-Deep AI Finance provides educational content and analytical tools only. Our service:
+Deep Dime provides educational content and analytical tools only. Our service:
 - **Does NOT provide financial advice** or investment recommendations
 - **Does NOT replace** professional financial advisors
 - **Is NOT responsible** for investment decisions made based on our analysis
@@ -226,8 +226,8 @@ For data protection inquiries or to exercise your privacy rights, please include
 
 By using our Service, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
 
-**Deep AI Finance**  
-*Empowering smarter financial analysis through AI*
+**deepaifinance.com**  
+*Deep Dime - Empowering smarter financial analysis through AI*
 
 ---
 
